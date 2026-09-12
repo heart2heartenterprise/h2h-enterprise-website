@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://heart2heartenterprise.github.io/heart2heart-enterprise-website/sitemap.xml
